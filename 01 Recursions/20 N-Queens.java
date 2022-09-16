@@ -118,5 +118,6 @@ class Solution {
 }
 
 
-
+// problem link - https://leetcode.com/problems/n-queens/
+// video link- https://www.youtube.com/watch?v=i05Ju7AftcM&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=14
 
